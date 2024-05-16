@@ -47,6 +47,7 @@ header{
     left: 100px;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
+    border-radius: 10px;
 }
 .continar2{
     position: relative;
@@ -58,6 +59,7 @@ header{
     left: 200px;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
+    border-radius: 10px;
 }
 .continar3{
     position: relative;
@@ -70,6 +72,7 @@ header{
     border-left: 2px solid black;
     border-bottom: 2px solid black;
     border-right: 2px solid black;
+    border-radius: 10px;
 }
 .continar4{
     position: relative;
@@ -81,6 +84,7 @@ header{
     left: 400px;
     border-right: 2px solid black;
     border-bottom: 2px solid black;
+    border-radius: 10px;
 }
 .continar5{
     position: relative;
@@ -92,6 +96,7 @@ header{
     left: 500px;
     border-right: 2px solid black;
     border-bottom: 2px solid black;
+    border-radius: 10px;
 }
 .continar6{
     position: relative;
@@ -103,6 +108,7 @@ header{
     left: 650px;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
+    border-radius: 10px;
 }
 .continar7{
     position: relative;
@@ -114,6 +120,7 @@ header{
     left: 750px;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
+    border-radius: 10px;
 }
 .continar8{
     position: relative;
@@ -126,6 +133,7 @@ header{
     border-left: 2px solid black;
     border-bottom: 2px solid black;
     border-right: 2px solid black;
+    border-radius: 10px;
 }
 .continar9{
     position: relative;
@@ -137,6 +145,7 @@ header{
     left: 950px;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
+    border-radius: 10px;
 }
 .continar10{
     position: relative;
@@ -148,6 +157,7 @@ header{
     left: 1050px;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
+    border-radius: 10px;
 }
 footer {
     background-color: #222222;
