@@ -201,12 +201,14 @@
     .img1{
         position: relative;
         width: 20vw;
+        height: 30vh;
         top: 15px;
         left: 150px;
         box-shadow: 10px 5px 20px rgba(0, 0, 0, 0.151);
     }
     .img2{
         width: 20vw;
+        height: 30vh;
         bottom: 50px;
         left: 350px;
         position: relative;
