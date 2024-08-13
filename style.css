@@ -61,8 +61,8 @@
         height: 4vh; 
         top: 50px;
         left: 30px;
-        border-left: 3px solid black;
-        border-bottom: 3px solid black;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
         border-radius: 10px;
     }
     .continar2{
@@ -72,8 +72,8 @@
         height: 4vh; 
         top: 100px;
         left: 60px;
-        border-left: 3px solid black;
-        border-bottom: 3px solid black;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
         border-radius: 10px;
     }
     .continar3{
@@ -83,9 +83,9 @@
         height: 4vh;  
         top: 140px;
         left: 100px;
-        border-left: 3px solid black;
-        border-bottom: 3px solid black;
-        border-right: 3px solid black;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
+        border-right: 2px solid black;
         border-radius: 10px;
     }
     .continar4{
@@ -95,8 +95,8 @@
         height: 4vh; 
         bottom: 140px;
         left: 140px;
-        border-right: 3px solid black;
-        border-bottom: 3px solid black;
+        border-right: 2px solid black;
+        border-bottom: 2px solid black;
         border-radius: 10px;
     }
     .continar5{
@@ -106,8 +106,8 @@
         height: 4vh; 
         bottom: 190px;
         left: 170px;
-        border-right: 3px solid black;
-        border-bottom: 3px solid black;
+        border-right: 2px solid black;
+        border-bottom: 2px solid black;
         border-radius: 10px;
     }
     .continar6{
@@ -117,8 +117,8 @@
         height: 4vh; 
         bottom: 190px;
         left: 220px;
-        border-left: 3px solid black;
-        border-bottom: 3px solid black;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
         border-radius: 10px;
     }
     .continar7{
@@ -128,8 +128,8 @@
         height: 4vh; 
         bottom: 140px;
         left: 250px;
-        border-left: 3px solid black;
-        border-bottom: 3px solid black;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
         border-radius: 10px;
     }
     .continar8{
@@ -139,9 +139,9 @@
         height: 4vh; 
         bottom: 100px;
         left: 290px;
-        border-left: 3px solid black;
-        border-bottom: 3px solid black;
-        border-right: 3px solid black;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
+        border-right: 2px solid black;
         border-radius: 10px;
     }
     .continar9{
@@ -151,8 +151,8 @@
         height: 4vh; 
         bottom: 140px;
         left: 330px;
-        border-right: 3px solid black;
-        border-bottom: 3px solid black;
+        border-right: 2px solid black;
+        border-bottom: 2px solid black;
         border-radius: 10px;
     }
     .continar10{
@@ -162,8 +162,8 @@
         height: 4vh; 
         bottom: 190px;
         left: 360px;
-        border-right: 3px solid black;
-        border-bottom: 3px solid black;
+        border-right: 2px solid black;
+        border-bottom: 2px solid black;
         border-radius: 10px;
     }
     footer {
