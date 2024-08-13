@@ -1,4 +1,4 @@
-# CSS Position Design ( Lab2 )
+# CSS Position Design ( Lab )
 
 ### Description:
 The objective was to design a webpage using only CSS position properties for layout. The page was also made responsive to ensure it works well on mobile devices.
